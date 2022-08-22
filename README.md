@@ -1,8 +1,8 @@
 This is Enhanced, a lightly modded, optimized, and multiplayer-oriented modpack based around the [EnhancedCraft](https://modrinth.com/mod/enhancedcraft) mod.
 
-This modpack also includes many useful quality-of-life mods to improve the vanilla experience, essential FPS optimization mods that replicate many OptiFine features and provide great performance, and the [Essential](https://essential.gg) mod to vastly improve the social aspect of Minecraft: Java Edition.
+This modpack also includes many useful quality-of-life mods to improve the vanilla experience and essential optimization mods to make the game feel smooth and snappy.
 
-### Open-Source
+### Open Source
 Enhanced (and most of the included mods) are open source. Any recommendations or questions are appreciated! Issues can be reported [here](https://github.com/spxctreofficial/enhanced-modpack/issues).
 
 ### FAQ

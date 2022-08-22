@@ -46,14 +46,6 @@ hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
 metafile = true
 
 [[files]]
-file = "mods/Essential Dependencies.jar"
-hash = "662e2e9083172634c0b08d3abe93daa46312ca601fcc50a15be78381f1edaeb1"
-
-[[files]]
-file = "mods/Essential-fabric_1-19.jar"
-hash = "255b3b4733ff0412d59c24e586f3ce811dc4292abb57a9ce3bd6ecbd6871f1ed"
-
-[[files]]
 file = "mods/amecs.pw.toml"
 hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
 metafile = true
@@ -76,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "5e206d6a7aa7744a3322189386a7e3c4315df2dd8a1d3a648bcde498a7a3c934"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
 metafile = true
 
 [[files]]
@@ -149,11 +146,6 @@ hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
-file = "mods/farsight-fabric.pw.toml"
-hash = "15703ff475fc638bdc8a4d62b708d517be68f86069611e84149cf126f2d76187"
-metafile = true
-
-[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "29813b2ef6d423d44dbaa3c5772d511c8116de664b90c09c98524f2bfdc16507"
 metafile = true
@@ -216,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "9d9b3772d9e12b474675846005279f4b3957711744a550ab14284ed4187fc270"
 metafile = true
 
 [[files]]
