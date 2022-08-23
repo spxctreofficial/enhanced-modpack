@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "921f73f17f138ece4672c2b822eecebe4508bf565e47f1e6d69936f4b3895aa0"
+hash = "5c7423d43dfde2f2be297f4006c41d3535c0c5bbac3d7398f6407c6f01593d5c"
 metafile = true
 
 [[files]]
@@ -78,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/boosted-brightness.pw.toml"
 hash = "5d7d1c6d7d68f972478ccfd02820f18f3db5e761ecf5965d9e1e151a8a75938a"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
 metafile = true
 
 [[files]]
@@ -236,6 +241,16 @@ hash = "741381be667a7b124ce60ba17fca9207369bd6ead4e58ce64fa140aff95f8159"
 metafile = true
 
 [[files]]
+file = "mods/nicephore-fabric.pw.toml"
+hash = "00ba1f6e8a4db81d90c67031b1888760db122f3029112420be43e680a66b2efb"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "a067a3a38a6df8bf4440edc13ad29e22adf31041858c4fc4aee991c0f0e87263"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
@@ -261,6 +276,11 @@ hash = "79c8f0a39cb0d8e3b30341ad4190b81b283abb8f117adfb539506042e08e4f7e"
 metafile = true
 
 [[files]]
+file = "mods/simply-no-shading.pw.toml"
+hash = "2105c79c7432a717a40e95c446f5d629c98a81d6844ccf045e494e25972712dd"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a861006c66175659b11c63a2e3872852b58626e7bb756bf39213cef991c490be"
 metafile = true
@@ -281,13 +301,18 @@ hash = "6230511311dcd1e74e10121b78b1e6fb47d28f3fb5b2ecda533c7094a16862c0"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "98636b823c117cc7fd28f3779b6de0c37141cfc753cf395bf08fe8ae67bb4b3c"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "f890affbc81dd0b392971738eb723aae198b554be6439feb6fa819ebdf7ba975"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "b5df8de0ddcf5e99ccbd09524ea536c80ef72154ee9a0f21541826815f48022c"
+hash = "7a096f27ddff429ee6e7ddbc15ad849de5fd0cce2b0c7906c1e48a7b2d3d184c"
 metafile = true
 
 [[files]]

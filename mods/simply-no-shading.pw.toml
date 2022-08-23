@@ -1,0 +1,13 @@
+name = "Simply No Shading"
+filename = "simply-no-shading-5.0.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gx5Xvc5/versions/5.0.0+1.19/simply-no-shading-5.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "ad58e5808e07a1d9c0325dc13adec43417f1a298"
+
+[update]
+[update.modrinth]
+mod-id = "9gx5Xvc5"
+version = "DgjB0btr"
