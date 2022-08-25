@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/capes.json5"
-hash = "4d46d8d86c7d6334f0a701d1ed09c4bdeeaf85d4e402232d8cfb7e11a7cd922f"
+hash = "7706f6aae2ec0a553a9ce6fe25907676172c8d9b700f663cc7d22b8dcf7a8d38"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "f33a35398bf6e44ea60529bd7b54b52c223c2af3f5e23c9524bb0c8bcae774e5"
 
 [[files]]
 file = "config/roughlyenoughitems/changelog.txt"
@@ -27,10 +31,6 @@ hash = "e8598cb3462a6c5dd3f755093ddfdf5ea357d175119b9a9e2a0fa19ab4621399"
 [[files]]
 file = "config/xaerominimap_entities.json"
 hash = "627e8a5fe190d0e6a10e21893d2b3cef78d4f78a6810c4445b705ce173764345"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -126,6 +126,11 @@ hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "7b76a5a039396501b31b122bd4db078489e572e95f6f32fcc59610c751375dec"
+metafile = true
+
+[[files]]
 file = "mods/enhancedcraft.pw.toml"
 hash = "bb87d0620df43b9706bf3a3f481a99ad988ae19b1cc6a345728b1dc8c8e5e913"
 metafile = true
@@ -151,6 +156,11 @@ hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "f0a1c212e68166b823a68080b32fd27d772fe87d533409fc0feb35a5c4c2093e"
+metafile = true
+
+[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "29813b2ef6d423d44dbaa3c5772d511c8116de664b90c09c98524f2bfdc16507"
 metafile = true
@@ -173,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/forgetmechunk.pw.toml"
 hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.pw.toml"
+hash = "3f6da5e369effa47f662723c3b8c8bc1b6756c03c7dc10dbc3ab6fb49ed17beb"
 metafile = true
 
 [[files]]
@@ -298,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "6230511311dcd1e74e10121b78b1e6fb47d28f3fb5b2ecda533c7094a16862c0"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "e4d8df8da89afc27ef4066bf63fb258fdef9bb367498372a6e5833dda27e0765"
 metafile = true
 
 [[files]]
