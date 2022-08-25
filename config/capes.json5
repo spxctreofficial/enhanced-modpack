@@ -1,10 +1,10 @@
 {
   "clientCapeType": "MINECRAFT",
-  "enableOptifine": false,
-  "enableLabyMod": false,
-  "enableWynntils": false,
-  "enableMinecraftCapesMod": false,
-  "enableCosmetica": false,
-  "enableCloaksPlus": false,
+  "enableOptifine": true,
+  "enableLabyMod": true,
+  "enableWynntils": true,
+  "enableMinecraftCapesMod": true,
+  "enableCosmetica": true,
+  "enableCloaksPlus": true,
   "enableElytraTexture": true
 }
