@@ -164,22 +164,22 @@
       "keys": ""
     },
     "placementRestrictionModeColumn": {
-      "keys": "Z,3"
+      "keys": ""
     },
     "placementRestrictionModeDiagonal": {
-      "keys": "Z,5"
+      "keys": ""
     },
     "placementRestrictionModeFace": {
-      "keys": "Z,2"
+      "keys": ""
     },
     "placementRestrictionModeLayer": {
-      "keys": "Z,6"
+      "keys": ""
     },
     "placementRestrictionModeLine": {
-      "keys": "Z,4"
+      "keys": ""
     },
     "placementRestrictionModePlane": {
-      "keys": "Z,1"
+      "keys": ""
     },
     "sitDownNearbyPets": {
       "keys": ""

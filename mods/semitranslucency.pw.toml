@@ -1,0 +1,13 @@
+name = "Semitranslucency Fix"
+filename = "semitranslucency-1.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xp45cyDI/versions/1.1/semitranslucency-1.1-fabric.jar"
+hash-format = "sha1"
+hash = "eda1c6bd0f62f192cdfd4491023a974decd20877"
+
+[update]
+[update.modrinth]
+mod-id = "xp45cyDI"
+version = "LpHBe3Li"
