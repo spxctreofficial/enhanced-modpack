@@ -21,16 +21,20 @@ file = "config/malilib.json"
 hash = "c7486c0c1e198b7227066f1926389117aab9d4705aca3911ed3aceb450669e4b"
 
 [[files]]
+file = "config/nicephore.json"
+hash = "0b9e17ce251d8289229066320aecb9c97519e0f30f9b63c7994f7013cc9f0887"
+
+[[files]]
 file = "config/roughlyenoughitems/changelog.txt"
 hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "ab014f3a6045d4d1280ac9157b2611df352827167a82c24d770eec9653a074fe"
+hash = "cbec6788355df81b1ecc3aea8a78ea4d21973b46c70e8786bbc818bda2f6fa83"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "6f3d7c69acf9395355e6f0c4c0aeccba30beabf0630e46ea750404ecf1e41191"
+hash = "39d17aa8d300d37a30a7f2035d9098015d7a6f35ba1586640004c748bfe92004"
 
 [[files]]
 file = "config/zoomify.json"
@@ -38,7 +42,7 @@ hash = "70f0e8308014ebda1a8ea5ab04ea9a14c7202fcb76346a0e4b1d4ca861a73729"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
 
 [[files]]
@@ -98,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "7db65bc77910c1c7e2a9b195b61c7376d573940fd6c3c523c7ed48df1f8fe5b5"
+hash = "51eef241ebeb6d722ede502e5411027c327ea14b702c3db1612968bc572db66c"
 metafile = true
 
 [[files]]
@@ -216,6 +220,11 @@ hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
+file = "mods/nicephore-fabric.pw.toml"
+hash = "00ba1f6e8a4db81d90c67031b1888760db122f3029112420be43e680a66b2efb"
+metafile = true
+
+[[files]]
 file = "mods/raknetify.pw.toml"
 hash = "b3d53702d8351a61707980136b9d04638d1411494dc372528211527500003da9"
 metafile = true
@@ -227,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "01e23be2b0b85c174b6fdf2b561aee7299e4fd1bf7170945ab23b4bdafcce86a"
+hash = "0a0e26d9314d35a02434af8b2f6836ef2e5d6d39a90535a4371892e3d0e1c842"
 metafile = true
 
 [[files]]
@@ -262,12 +271,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6f47fb033d1ad7ee12d34ee590974213595745b74100ff47a6d4d75a6f231bdc"
+hash = "f1b822298ccbb96ab43b054811b802080c3160db2168e7c795370779e8bc1b93"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "74fb9e8174adc537ac89947dc970bfff81e0c048a0e23c2250195afb7ad4154e"
+hash = "2ef6bd2d5beb568877c9e9d379f59d7ce6fe0bff3bae958a1c65d17cce9a09fd"
 metafile = true
 
 [[files]]
