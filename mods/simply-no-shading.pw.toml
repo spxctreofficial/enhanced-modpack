@@ -1,0 +1,13 @@
+name = "Simply No Shading"
+filename = "simply-no-shading-5.1.0-snapshot.1+1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gx5Xvc5/versions/rezoACDI/simply-no-shading-5.1.0-snapshot.1%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "9a01d1eba558788493758b663b8a16b132fce2b1"
+
+[update]
+[update.modrinth]
+mod-id = "9gx5Xvc5"
+version = "rezoACDI"

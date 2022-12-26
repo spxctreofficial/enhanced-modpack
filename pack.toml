@@ -1,15 +1,15 @@
 name = "Enhanced"
 author = "Spxctre"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dc0f15895fda101c582c7c87c501384184df04311c949b6fae2a6745662dcd6f"
+hash = "8d4fa15e36aa88846b1d95dc921276030219d7425268d63b15a02e56f9038adb"
 
 [versions]
-fabric = "0.14.9"
+fabric = "0.14.11"
 minecraft = "1.19.2"
 
 [options]

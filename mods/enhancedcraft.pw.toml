@@ -1,0 +1,13 @@
+name = "EnhancedCraft"
+filename = "enhancedcraft-1.4+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JRK1PEfm/versions/hZcZm827/enhancedcraft-1.4%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "a1847b3bbf3fb5aa243c91bd579c566e00a9b0c3"
+
+[update]
+[update.modrinth]
+mod-id = "JRK1PEfm"
+version = "hZcZm827"

@@ -1,19 +1,22 @@
 {
 	"basics": {
-		"favorites": [],
+		"favorites": [
+			"{data:{Count:1b,id:\"enhancedcraft:aecoron_helmet\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"enhancedcraft:etherium_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
-				"keyCode": "key.keyboard.r",
-				"modifier": 4
+				"keyCode": "key.keyboard.y",
+				"modifier": 0
 			},
 			"usageKeybind": {
 				"keyCode": "key.keyboard.u",
-				"modifier": 4
+				"modifier": 0
 			},
 			"hideKeybind": {
 				"keyCode": "key.keyboard.o",
@@ -59,8 +62,10 @@
 		"filtering": {
 			"shouldFilterDisplays": true,
 			"filteringRules": [
-				"{id:\"roughlyenoughitems:manual\",rule:{}}"
+				"{id:\"roughlyenoughitems:manual\",rule:{}}",
+				"{id:\"roughlyenoughitems:basic\",rule:{}}"
 			],
+			"filteringQuickCraftCategories": { },
 			"filteredStacks": []
 		},
 		"enableJeiCompatibilityLayer": true,
@@ -68,7 +73,8 @@
 			// Declares whether REI should append mod names to entries.
 			"appendModNames": true,
 			// Declares whether favorites tooltip should be displayed.
-			"displayFavoritesTooltip": false
+			"displayFavoritesTooltip": false,
+			"displayIMEHints": true
 		},
 		"layout": {
 			// The ordering of the items on the entry panel.
@@ -102,6 +108,7 @@
 			"asyncSearch": true,
 			// Declares how many entries should be grouped one async search.
 			"asyncSearchPartitionSize": 100,
+			"patchAsyncThreadCrash": true,
 			"tooltipSearch": "ALWAYS",
 			"tagSearch": "PREFIX",
 			"identifierSearch": "ALWAYS",

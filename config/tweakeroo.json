@@ -312,7 +312,7 @@
       }
     },
     "disableAxeStripping": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": "RIGHT_BRACKET"
       }
@@ -498,7 +498,7 @@
       }
     },
     "disableScoreboardRendering": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": "K"
       }
@@ -726,7 +726,7 @@
     "tweakFlexibleBlockPlacement": false,
     "tweakFreeCamera": false,
     "tweakGammaOverride": false,
-    "tweakHandRestock": false,
+    "tweakHandRestock": true,
     "tweakHangableEntityBypass": false,
     "tweakHoldAttack": false,
     "tweakHoldUse": false,
