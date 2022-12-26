@@ -1,12 +1,12 @@
 name = "Enhanced"
 author = "Spxctre"
-version = "1.0.3"
+version = "1.0.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8d4fa15e36aa88846b1d95dc921276030219d7425268d63b15a02e56f9038adb"
+hash = "28d80210ae2e9237a96a40e3816dd4266758d0806b2034104a4c398efbd8de5f"
 
 [versions]
 fabric = "0.14.11"

@@ -174,6 +174,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/flat-lighting.pw.toml"
+hash = "e8b3e84e3935880c8787e36d0cdc3c2c89c44f3f799074528a9de4b1c97abb37"
+metafile = true
+
+[[files]]
 file = "mods/forgetmechunk.pw.toml"
 hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
@@ -276,11 +281,6 @@ metafile = true
 [[files]]
 file = "mods/semitranslucency.pw.toml"
 hash = "7588d902d3e6799a203c3d299814f2792d56fd27a6569670d85652a46c81ff9c"
-metafile = true
-
-[[files]]
-file = "mods/simply-no-shading.pw.toml"
-hash = "b4023a35799bbf9cb97d1c20129af5cb719b3c92a30716cc5d0fa776ea1d4d60"
 metafile = true
 
 [[files]]

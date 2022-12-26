@@ -1,0 +1,13 @@
+name = "Flat Lighting"
+filename = "flat-lighting-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PXsE1tUn/versions/SDSXKHOA/flat-lighting-1.1.0.jar"
+hash-format = "sha1"
+hash = "e3d3775bf6948283eaee7fb42a79403990842a02"
+
+[update]
+[update.modrinth]
+mod-id = "PXsE1tUn"
+version = "SDSXKHOA"
